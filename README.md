@@ -6,8 +6,8 @@ This github is contain model after train of paper  `Characterization and Classif
 <br />
 Before using model must be install library.
 ```
-!pip install timm
-!pip install lightning
+pip install timm
+pip install lightning
 ```
 Using model for inferance 
 ```
@@ -18,7 +18,7 @@ You can acess and download our model at link below.
 ```
 https://drive.google.com/drive/folders/1g3mSrKGwTnhs2qMXj_oH8mMF9X72iYFT
 ```
-You can also see our example code for inferance model at Example.ipynb in this github. 
+You can also see our example code for inferance model at `Example.ipynb` in this github. 
 
 Note: 
 For using in colab you can download model by using command !gdown
