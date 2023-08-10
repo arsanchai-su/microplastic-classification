@@ -10,3 +10,7 @@ Using model for inferance
 model = torch.load('efficientnet_microplastic.py')
 ```
 
+You can acess and download our model at link below. 
+```
+https://drive.google.com/drive/folders/1g3mSrKGwTnhs2qMXj_oH8mMF9X72iYFT
+```
