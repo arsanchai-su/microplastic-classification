@@ -7,6 +7,6 @@ This github is contain model after train of paper  `Characterization and Classif
 
 Using model for inferance 
 ```
-model = torch.load('efficientnet_microplastic)
+model = torch.load('efficientnet_microplastic.py')
 ```
 
